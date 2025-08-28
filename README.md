@@ -18,6 +18,6 @@ This repository provides a basic console-based implementation of the classic boa
 - Runs the main game loop where players alternate turns until no valid moves remain for either player.
 
 # How to Play
-1. Compile the provided source files with a C++ compiler:
-2. Run the generated executable.
-3. Follow the on-screen prompts to make moves on the board. The game continues until neither player has any valid moves left.
+1. Compile the provided source files with a C++ compiler: https://github.com/DheerajSwaroopSaligramaMahesh/Advanced_Programming_Techniques-ReversiBoard/tree/main/ReversiBoard/myCode
+3. Run the generated executable.
+4. Follow the on-screen prompts to make moves on the board. The game continues until neither player has any valid moves left.
