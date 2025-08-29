@@ -1,0 +1,8 @@
+# Force C++ language detection
+*.h linguist-language=C++
+*.cpp linguist-language=C++
+
+# Mark docs as documentation (not counted in language stats)
+*.md linguist-documentation
+*.txt linguist-documentation
+*.css linguist-documentation
